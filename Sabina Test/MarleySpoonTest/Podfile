@@ -1,0 +1,3 @@
+target 'MarleySpoonTest' do
+	pod 'Contentful'
+end

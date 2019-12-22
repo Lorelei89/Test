@@ -1,0 +1,6 @@
+module Pods_MarleySpoonTest {
+  umbrella header "Pods-MarleySpoonTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
